@@ -1,6 +1,5 @@
-var SUPABASE_URL = 'https://ernhobnpmmupjnmxpfbt.supabase.co'
-var SUPABASE_KEY =
-  'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlhdCI6MTYxMzA5ODU0NCwiZXhwIjoxOTI4Njc0NTQ0fQ.Z9bRrfaL2oGhSuyBckFcdcnRIJDelWJ1II98OnEtLO0'
+var SUPABASE_URL = 'https://yhgqizsaylpzhuooyflq.supabase.co'
+var SUPABASE_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InloZ3FpenNheWxwemh1b295ZmxxIiwicm9sZSI6ImFub24iLCJpYXQiOjE2NzUzNDE3MTMsImV4cCI6MTk5MDkxNzcxM30.KL_3g5f7bjCu5Z961JqjAD_GPd_F1wVkHk1ciUnw78M'
 
 var supabase = supabase.createClient(SUPABASE_URL, SUPABASE_KEY)
 window.userToken = null
